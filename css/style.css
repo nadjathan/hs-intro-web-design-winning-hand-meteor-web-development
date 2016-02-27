@@ -51,7 +51,7 @@ h3 {
 	border-bottom: 70px solid red;
 	position: relative;
 	top: -50px;
-}
+}xs
 
 #diamond-narrow:after {
 	content: '';
@@ -76,6 +76,60 @@ h3 {
     z-index: 1;
     background-color: white;
 }
+
+#king{
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 205px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+#queen{
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 410px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+#jack{
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 615px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+#ten{
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    left: 820px;
+    top: 150px;
+    z-index: 1;
+    background-color: white;
+}
+
+
+}
+
+
 
 
 
